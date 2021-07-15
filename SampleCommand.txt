@@ -1,0 +1,1 @@
+git remote add origin "<Link of the github repo>
